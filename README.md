@@ -8,5 +8,5 @@ Below is the template to be mimicked as close as possible.
 
 ![image](https://user-images.githubusercontent.com/126652917/227807705-2749efe9-a28f-42d5-a170-39d3ab188e6d.png)
 
-The project below was created to be as close as possible to the template. Please view accompanying html and CSS code via index.html and landingstyle.css
+The project below was created to be as close as possible to the template. Stock images were free for use, found at Pexels.com. Please view accompanying html and CSS code via index.html and landingstyle.css
 
